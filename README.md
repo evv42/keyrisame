@@ -11,5 +11,12 @@ PC1 (A1) to AT data
 
 PD1 (TX) to PC-98 RX
 
+PD2 to joystick up
+PD3 to joystick down
+PD4 to joystick left
+PD5 to joystick right
+PD6 to joystick 1
+PD7 to joystick 2
+
 don't forget the grounds...
 ```
